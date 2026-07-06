@@ -1,4 +1,4 @@
-# AI Portfolio Manager
+# AI-Powered Portfolio Intelligence System
 
 An AI-powered portfolio management system that uses multi-agent architecture to analyze stocks, assess risk, and provide investment recommendations.
 
